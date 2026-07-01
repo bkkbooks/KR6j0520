@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0520/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說金毘羅童子威德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1289.xml
+    old_id: T21n1289
+hash: sha256:eab8ead46bd0c268b0c0ba4595d1500f024e53882163310af8bad2d91dd3545f

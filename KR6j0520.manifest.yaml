@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6j0520/v1
+canonical_location: https://kanripo.org/bkk/KR6j0520/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說金毘羅童子威德經
+  identifiers:
+    alt_id:
+    - T21n1289
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1289.xml
+    old_id: T21n1289
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 原
+  label: 原
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0520_000.yaml, hash: 'sha256:eab8ead46bd0c268b0c0ba4595d1500f024e53882163310af8bad2d91dd3545f'}
+  - {seq: 1, filename: KR6j0520_001.yaml, hash: 'sha256:3d1e6f2f00a8f1d0d2d775e6106beb48d5fd43f75633985c8607629cfbec657c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0520_001.markers.yaml, hash: 'sha256:7c921bdfae293e79979d5273a6f68ad0182ac96d6f17a2cd2af54d7e630b562b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0520_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9439
+  label: 佛說金毘羅童子威德經
+  type: juan
+  level: 1
+hash: sha256:a0a5620d4242e6ecb3d477b8df1fd70acc92799c32e6544d10b94b80745af9de
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
