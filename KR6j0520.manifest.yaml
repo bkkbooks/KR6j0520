@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0520_000.yaml, hash: 'sha256:eab8ead46bd0c268b0c0ba4595d1500f024e53882163310af8bad2d91dd3545f'}
-  - {seq: 1, filename: KR6j0520_001.yaml, hash: 'sha256:3d1e6f2f00a8f1d0d2d775e6106beb48d5fd43f75633985c8607629cfbec657c'}
+  - {seq: 1, filename: KR6j0520_001.yaml, hash: 'sha256:3d123649c7395b23feb6551ad4b7b04119eb954d1ca42a67eb8320ab82458e77'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0520_001.markers.yaml, hash: 'sha256:7c921bdfae293e79979d5273a6f68ad0182ac96d6f17a2cd2af54d7e630b562b'}
+  - {seq: 0, role: markers, filename: assets/KR6j0520_000.markers.yaml, hash: 'sha256:4b1b42304b90053749a336e7a1e2cb1b52f6c649a4a7dcfad37ceec7defb5ff9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0520_001.markers.yaml, hash: 'sha256:af732004bcfacbaf1008627dfea9a5b535808c71995e80696750fda073e80d80'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說金毘羅童子威德經
   type: juan
   level: 1
-hash: sha256:a0a5620d4242e6ecb3d477b8df1fd70acc92799c32e6544d10b94b80745af9de
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2291f59feca66743b2170d81c85dab35d811d4a128a1ebab053b4bf243f8f2fb
